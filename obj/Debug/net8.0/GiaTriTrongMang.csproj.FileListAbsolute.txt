@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\bin\Debug\net8.0\GiaTriTrongMang.exe
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\bin\Debug\net8.0\GiaTriTrongMang.deps.json
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\bin\Debug\net8.0\GiaTriTrongMang.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\bin\Debug\net8.0\GiaTriTrongMang.dll
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\bin\Debug\net8.0\GiaTriTrongMang.pdb
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.dll
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\refint\GiaTriTrongMang.dll
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.pdb
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\GiaTriTrongMang.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\GiaTriTrongMang\obj\Debug\net8.0\ref\GiaTriTrongMang.dll
